@@ -1,10 +1,4 @@
-# Portfolio2018
-dexia2のポートフォリオです。
+# Portfolio
+dexia2の[ポートフォリオページ](https://dexia2.github.io/PortfolioPage/)です。
 
-# 使用した技術
-+ Angular6
-    + TypeScript
-    + Scss
-+ Angular Material
-+ Chart.js
-+ reset.css
+ソースは[こちら](https://github.com/dexia2/Portfolio2018)。
